@@ -1,0 +1,12 @@
+{
+  "name": "notes_mongo_nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:johnmogi/new_notes.git",
+  "author": "johnmogi <anguru@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "git": "git add --all && git commit -m",
+    "postgit": "push --all"
+  }
+}
